@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monsters-den/static/css/main.63d9d1d8.css",
+    "main.js": "/monsters-den/static/js/main.49ce04f2.js",
+    "static/js/787.11ad1fbf.chunk.js": "/monsters-den/static/js/787.11ad1fbf.chunk.js",
+    "index.html": "/monsters-den/index.html",
+    "main.63d9d1d8.css.map": "/monsters-den/static/css/main.63d9d1d8.css.map",
+    "main.49ce04f2.js.map": "/monsters-den/static/js/main.49ce04f2.js.map",
+    "787.11ad1fbf.chunk.js.map": "/monsters-den/static/js/787.11ad1fbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63d9d1d8.css",
+    "static/js/main.49ce04f2.js"
+  ]
+}
